@@ -1,0 +1,43 @@
+{
+  "places":{
+      "apiversion":0.1,
+      "placesList":[
+        {
+          "placeId":2,
+          "placeName":"Cafeterías abajo",
+          "latitude":13.7145626,
+          "longitude":-89.156737
+        },
+        {
+          "placeId":3,
+          "placeName":"Cafeterías arriba",
+          "latitude":13.7150716,
+          "longitude":-89.153429
+        },
+        {
+          "placeId":4,
+          "placeName":"Entrada calle de oro",
+          "latitude":13.7167596,
+          "longitude":-89.1540024
+        },
+        {
+          "placeId":5,
+          "placeName":"Acceso peatonal",
+          "latitude":13.7179032,
+          "longitude":-89.1542514
+        },
+        {
+          "placeId":6,
+          "placeName":"Acceso vehicular",
+          "latitude":13.7171754,
+          "longitude":-89.1577346
+        },
+        {
+          "placeId":7,
+          "placeName":"Canchas",
+          "latitude":13.7161946,
+          "longitude":-89.1533344
+        }
+    ]
+  }
+}

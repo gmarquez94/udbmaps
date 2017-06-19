@@ -1,0 +1,73 @@
+{
+  "places":{
+      "apiversion":0.1,
+      "placesList":[
+        {
+          "placeId":2,
+          "placeName":"Edificio A",
+          "latitude":13.715799,
+          "longitude":-89.1540572
+        },
+        {
+          "placeId":3,
+          "placeName":"Edificio B",
+          "latitude":13.7161857,
+          "longitude":-89.1542069
+        },
+        {
+          "placeId":4,
+          "placeName":"Edificio C",
+          "latitude":13.7153367,
+          "longitude":-89.1540376
+        },
+        {
+          "placeId":5,
+          "placeName":"Edificio 2",
+          "latitude":13.7159639,
+          "longitude":-89.1556796
+        },
+        {
+          "placeId":6,
+          "placeName":"Edificio 3",
+          "latitude":13.7158479,
+          "longitude":-89.1558926
+        },
+        {
+          "placeId":7,
+          "placeName":"Edificio 4",
+          "latitude":13.7154679,
+          "longitude":-89.1560076
+        },
+        {
+          "placeId":8,
+          "placeName":"Edificio 5",
+          "latitude":13.7151149,
+          "longitude":-89.1558476
+        },
+        {
+          "placeId":9,
+          "placeName":"Edificio 6",
+          "latitude":13.7147229,
+          "longitude":-89.1559896
+        },
+        {
+          "placeId":10,
+          "placeName":"Edificio 7",
+          "latitude":13.7144849,
+          "longitude":-89.1559818
+        },
+        {
+          "placeId":11,
+          "placeName":"Edificio 8",
+          "latitude":13.7147429,
+          "longitude":-89.1549098
+        },
+        {
+          "placeId":12,
+          "placeName":"One World Competence",
+          "latitude":13.7154827,
+          "longitude":-89.1568819
+        }
+    ]
+  }
+}

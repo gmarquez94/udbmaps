@@ -1,0 +1,37 @@
+{
+  "places":{
+      "apiversion":0.1,
+      "placesList":[
+        {
+          "placeId":2,
+          "placeName":"Facultad de Ciencias Económicas y Facultad de Estudios Tecnológicos",
+          "latitude":13.715653,
+          "longitude":-89.1526153
+        },
+        {
+          "placeId":3,
+          "placeName":"Facultad de Ingeniería",
+          "latitude":13.7157747,
+          "longitude":-89.1529452
+        },
+        {
+          "placeId":4,
+          "placeName":"Facultad de Ciencias y Humanidades ",
+          "latitude":13.7156934,
+          "longitude":-89.1530197
+        },
+        {
+          "placeId":5,
+          "placeName":"Facultad de Ciencias Básicas",
+          "latitude":13.7156934,
+          "longitude":89.1530197
+        },
+        {
+          "placeId":6,
+          "placeName":"Parque Nacional El Boquerón, El Salvador",
+          "latitude":13.734027,
+          "longitude":-89.279679
+        }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "places":{
+      "apiversion":0.1,
+      "placesList":[
+        {
+          "placeId":2,
+          "placeName":"CDIU",
+          "latitude":13.7150851,
+          "longitude":-89.154261
+        },
+        {
+          "placeId":3,
+          "placeName":"Fotocopiadora",
+          "latitude":13.7155901,
+          "longitude":-89.153429
+        },
+        {
+          "placeId":4,
+          "placeName":"Biblioteca",
+          "latitude":13.7167596,
+          "longitude":-89.1541651
+        },
+        {
+          "placeId":5,
+          "placeName":"Colecturía",
+          "latitude":13.7167596,
+          "longitude":-89.1541651
+        }
+    ]
+  }
+}
