@@ -5,20 +5,20 @@
         {
           "placeId":2,
           "placeName":"Edificio A",
-          "latitude":13.715799,
-          "longitude":-89.1540572
+          "latitude":13.7160113,
+          "longitude":-89.1539875
         },
         {
           "placeId":3,
           "placeName":"Edificio B",
-          "latitude":13.7161857,
-          "longitude":-89.1542069
+          "latitude":13.7157753,
+          "longitude":-89.1539735
         },
         {
           "placeId":4,
           "placeName":"Edificio C",
-          "latitude":13.7153367,
-          "longitude":-89.1540376
+          "latitude":13.7152344,
+          "longitude":-89.1538966
         },
         {
           "placeId":5,
