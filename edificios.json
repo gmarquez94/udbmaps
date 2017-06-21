@@ -5,68 +5,68 @@
         {
           "placeId":2,
           "placeName":"Edificio A",
-          "latitude":13.7160113,
-          "longitude":-89.1539875
+          "latitude":13.716017,
+          "longitude":-89.153446
         },
         {
           "placeId":3,
           "placeName":"Edificio B",
-          "latitude":13.7157753,
-          "longitude":-89.1539735
+          "latitude":13.715762,
+          "longitude":-89.153429
         },
         {
           "placeId":4,
           "placeName":"Edificio C",
-          "latitude":13.7152544,
-          "longitude":-89.1539216
+          "latitude":13.715253,
+          "longitude":-89.153304
         },
         {
           "placeId":5,
           "placeName":"Edificio 2",
-          "latitude":13.7159954,
-          "longitude":-89.1555164
+          "latitude":13.715976,
+          "longitude":-89.154937
         },
         {
           "placeId":6,
           "placeName":"Edificio 3",
-          "latitude":13.7158364,
-          "longitude":-89.1558184
+          "latitude":13.715862,
+          "longitude":-89.155247
         },
         {
           "placeId":7,
           "placeName":"Edificio 4",
-          "latitude":13.7154654,
-          "longitude":-89.1559544
+          "latitude":13.715460,
+          "longitude":-89.155351
         },
         {
           "placeId":8,
           "placeName":"Edificio 5",
-          "latitude":13.7151204,
-          "longitude":-89.1557974
+          "latitude":13.715133,
+          "longitude":-89.155200
         },
         {
           "placeId":9,
           "placeName":"Edificio 6",
-          "latitude":13.7147229,
-          "longitude":-89.1559896
+          "latitude":13.714741,
+          "longitude":-89.155304
         },
         {
           "placeId":10,
           "placeName":"Edificio 7",
-          "latitude":13.7144849,
-          "longitude":-89.1559818
+          "latitude":13.714482,
+          "longitude":-89.155279
         },
         {
           "placeId":11,
           "placeName":"Edificio 8",
-          "latitude":13.7147429,
-          "longitude":-89.1549098
+          "latitude":13.714352,
+          "longitude":-89.154977
         },
         {
           "placeId":12,
           "placeName":"One World Competence",
-          "latitude":13.7154827,
-          "longitude":-89.1568819
+          "latitude":13.715464,
+          "longitude":-89.155880
         }
     ]
   }
